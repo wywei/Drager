@@ -16,6 +16,9 @@
 		A17EEC552A596F6B006E4544 /* DragerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17EEC542A596F6B006E4544 /* DragerTests.swift */; };
 		A17EEC5F2A596F6B006E4544 /* DragerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17EEC5E2A596F6B006E4544 /* DragerUITests.swift */; };
 		A17EEC612A596F6B006E4544 /* DragerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17EEC602A596F6B006E4544 /* DragerUITestsLaunchTests.swift */; };
+		A17EEC702A59BCAA006E4544 /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17EEC6F2A59BCAA006E4544 /* MyViewController.swift */; };
+		A17EEC722A59BD20006E4544 /* LeftViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17EEC712A59BD20006E4544 /* LeftViewController.swift */; };
+		A17EEC742A59BD26006E4544 /* RightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17EEC732A59BD26006E4544 /* RightViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		A17EEC5A2A596F6B006E4544 /* DragerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DragerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A17EEC5E2A596F6B006E4544 /* DragerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragerUITests.swift; sourceTree = "<group>"; };
 		A17EEC602A596F6B006E4544 /* DragerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A17EEC6F2A59BCAA006E4544 /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
+		A17EEC712A59BD20006E4544 /* LeftViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftViewController.swift; sourceTree = "<group>"; };
+		A17EEC732A59BD26006E4544 /* RightViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RightViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				A17EEC3D2A596F6A006E4544 /* AppDelegate.swift */,
 				A17EEC3F2A596F6A006E4544 /* SceneDelegate.swift */,
 				A17EEC412A596F6A006E4544 /* ViewController.swift */,
+				A17EEC6F2A59BCAA006E4544 /* MyViewController.swift */,
+				A17EEC712A59BD20006E4544 /* LeftViewController.swift */,
+				A17EEC732A59BD26006E4544 /* RightViewController.swift */,
 				A17EEC432A596F6A006E4544 /* Main.storyboard */,
 				A17EEC462A596F6B006E4544 /* Assets.xcassets */,
 				A17EEC482A596F6B006E4544 /* LaunchScreen.storyboard */,
@@ -260,7 +269,10 @@
 			files = (
 				A17EEC422A596F6A006E4544 /* ViewController.swift in Sources */,
 				A17EEC3E2A596F6A006E4544 /* AppDelegate.swift in Sources */,
+				A17EEC702A59BCAA006E4544 /* MyViewController.swift in Sources */,
+				A17EEC722A59BD20006E4544 /* LeftViewController.swift in Sources */,
 				A17EEC402A596F6A006E4544 /* SceneDelegate.swift in Sources */,
+				A17EEC742A59BD26006E4544 /* RightViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
