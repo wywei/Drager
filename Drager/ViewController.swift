@@ -3,7 +3,7 @@
 //  Drager
 //
 //  Created by andy on 2023/7/8.
-//
+//  外界继承即可使用
 
 import UIKit
 fileprivate let targetY: CGFloat = 100
